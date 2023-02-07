@@ -53,7 +53,7 @@ global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" 
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'Sticker Ergil:V' //sticker wm ubah
 global.author = 'ErgilBotz' //sticker wm ganti nama kalian
-global.sessionName = 'session'
+global.sessionName = 'session.json'
 //type menu for menu
 global.typemenu = 'document' //
 //type menu for downloadmenu, animemenu, etc
